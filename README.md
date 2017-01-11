@@ -5,4 +5,4 @@ Recreated script based on output from #OpNASADrones pastebin. This WILL destroy 
 ## Installation:
 <pre>git clone https://github.com/BrandonEckert/KillTheGibson.git && cd KillTheGibson/</pre>
 ## Usage:
-<pre>sudo ./KillTheGibson.sh</pre>
+<pre>sudo ./killthegibson.sh</pre>
